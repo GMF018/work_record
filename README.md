@@ -9,7 +9,7 @@
 2. [Docker](./Docker.md)
 3. [Linux](./linux.md)
 3. [Spring](Spring.md)
-4. [Spring Boot](Spring Boot.md)
+4. [Spring Boot](SpringBoot.md)
 5. [Mybatis](Mybatis.md)
 6. [日志框架](日志框架.md)
 7. [防火墙](防火墙.md)
